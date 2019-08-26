@@ -1,0 +1,47 @@
+.row-header{
+    color: white;
+    margin: 0px auto;
+    padding: 0px auto;
+}
+
+.row-style{ 
+    margin:0px auto;
+    padding: 50px 0px;
+    border-bottom: 1px ridge ;
+    min-height: 400px;
+}
+.footer{
+    background-color: #D1C4E9;
+    margin: 0px auto;
+    padding: 20px opx;
+}
+.jumbotron{
+    padding:70px 30px;
+    margin 0px auto;
+    background-color:azure;
+    font-family: Myriad Pro;
+    font-weight: 800px;
+    line-height: 35px;
+}
+.address{
+    font-size: 80%;
+    margin: 0px;
+    color:#0f0f0f;
+}
+.icon{
+	margin-bottom: 50px;
+}
+.footer{
+	margin: 10px auto;
+}
+.card{
+	box-shadow: 5px 2px 2px;
+}
+.contain{
+	margin: 95px auto;
+}
+p{
+	font-family: Myriad Pro;
+	line-height: 35px;
+	font-weight: 800px;
+}
