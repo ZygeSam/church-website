@@ -37,7 +37,7 @@
 .card{
 	box-shadow: 5px 2px 2px;
 }
-.contain{
+.contain, .banner{
 	margin: 95px auto;
 }
 p{
